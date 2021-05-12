@@ -2,12 +2,12 @@
 
 ## COURSES
 
-Your Flatiron School program is broken up into courses. Each course represents a
+Your Academy Xi program is broken up into courses. Each course represents a
 section of our core curriculum.
 
 ## MODULES
 
-Flatiron School organizes content within courses by breaking them up into
+Academy Xi organizes content within courses by breaking them up into
 modules.  The modules will control the entire flow of the course and within them
 you'll find all your lessons, labs, assignments, and quizzes for the course.
 Modules can be filled with different types of content:
